@@ -1,0 +1,107 @@
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ThemNV_.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChamCong.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuNV.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TínhLuong.resources
+C:\Users\Ph4nT0m\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HoaDonBanHang.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChamCong.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HoaDonBanHang.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ThemNV_.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuNV.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TínhLuong.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HDonNhapKho.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.DatCom.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.QL_MonAn.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TonKho.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_MonAn.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TK_thu_chi.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_thuchi.resources
+F:\doc\CNPM_TaiLieu\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuKhachHang.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChamCong.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HDonNhapKho.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.DatCom.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form_Chinh.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.QL_MonAn.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TonKho.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_MonAn.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HoaDonBanHang.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ThemNV_.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TK_thu_chi.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_thuchi.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuKhachHang.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuNV.resources
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\DH SPKT\Mon Hoc\CNPM\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TinhLuong.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChamCong.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HDonNhapKho.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.DatCom.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form_Chinh.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.QL_MonAn.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TonKho.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_MonAn.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HoaDonBanHang.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ThemNV_.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TK_thu_chi.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_thuchi.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuKhachHang.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuNV.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TinhLuong.resources
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\doc\CNPM_TaiLieu\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChamCong.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HDonNhapKho.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.DatCom.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form_Chinh.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.QL_MonAn.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TonKho.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HoaDonBanHang.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ThemNV_.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TK_thu_chi.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuKhachHang.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_MonAn.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuu_thuchi.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TraCuuNV.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.TinhLuong.resources
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\PHAT\Downloads\Bai Nop Nhom 1\Bai Nop Nhom 1\SourseCode\QuanLyQuanAnNguoiOi_Nhom1\QuanLyQuanAnNguoiOi_Nhom1_Source\WindowsFormsApplication2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
